@@ -25,14 +25,14 @@ Práctica de HTML y CSS de un Blog de Islas con página de inicio, entrada de bl
 <p><strong>Imagen:</strong> Página de Entrada de blog - Aruba.</p>
 </div>
 
-# Quienes somos
+## Quienes somos
 
 <div align="center">
 <img src="media/5.png">
 <p><strong>Imagen:</strong> Página de Quienes Somos.</p>
 </div>
 
-# Contáctanos
+## Contáctanos
 
 <div align="center">
 <img src="media/6.png">
