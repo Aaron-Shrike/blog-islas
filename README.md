@@ -6,14 +6,12 @@ Práctica de HTML y CSS de un Blog de Islas con página de inicio, entrada de bl
 <p><strong>Imagen:</strong> Página de Inicio.</p>
 </div>
 
-## Inicio
+## Entrada de Blog
 
 <div align="center">
 <img src="media/2.png">
 <p><strong>Imagen:</strong> Página de Entrada de blog - Bora Bora.</p>
 </div>
-
-## Entrada de Blog
 
 <div align="center">
 <img src="media/3.png">
