@@ -1,5 +1,5 @@
 # Blog de Islas - Una Isla Para Visitar
-Práctica de HTML y CSS de un Blog de Islas con página de inicio, entrada de blog, quienes somos y contáctanos.
+Práctica de HTML y CSS de un Blog de Islas con página de inicio, entrada de blog, quienes somos y contáctanos. **11/03/2022**
 
 <div align="center">
 <img src="media/1.png">
